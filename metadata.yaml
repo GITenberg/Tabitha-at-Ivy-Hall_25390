@@ -1,0 +1,33 @@
+_repo: Tabitha-at-Ivy-Hall_25390
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Russell, Alfred
+    gutenberg_agent_id: '31300'
+    url: http://www.gutenberg.org/2009/agents/31300
+covers:
+- cover_type: archival
+  image_path: 25390-h/images/cover.jpg
+creator:
+  author:
+    agent_name: MacArthur, Ruth Brown
+    alias: Brown, Ruth Alberta
+    birthdate: 1881
+    gutenberg_agent_id: '9237'
+    url: http://www.gutenberg.org/2009/agents/9237
+description: The story of Tabby Catt, who doesn't like the name her father gave her.
+gutenberg_issued: '2008-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Tabitha at Ivy Hall
+url: http://www.gutenberg.org/ebooks/25390
