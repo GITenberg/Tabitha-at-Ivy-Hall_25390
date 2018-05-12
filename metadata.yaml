@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9237'
     url: http://www.gutenberg.org/2009/agents/9237
 description: The story of Tabby Catt, who doesn't like the name her father gave her.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25390#Tabitha-at-Ivy-Hall
 gutenberg_issued: '2008-05-08'
 gutenberg_type: Text
 identifiers:
